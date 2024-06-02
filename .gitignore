@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.scooter/
+.scooter.egg.info
 
 # Spyder project settings
 .spyderproject
